@@ -1,3 +1,4 @@
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG86nbcqlTtrHRiqamRaLwYYzl2BdHrqKMbg&usqp=CAU)](https://Nitish-cy.io)
 <h1 align="center">Hi 👋, I'm Nitish Mishra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--NaEDFYAK--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif"></img>
