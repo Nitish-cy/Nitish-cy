@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitish-cy" alt="nitish-cy" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce Application](https://github.com/Nitish-cy/E-Commerce-App)
+- 🔭 I’m currently working on [DevOps Projects](https://github.com/Nitish-cy/Devops)
 
-- 🌱 I’m currently learning **Redux , Docker , AWS**
+- 🌱 I’m currently learning **Advanced DevOps - Kubernetes and Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nitish-cy/Nitish_Portfolio](https://github.com/Nitish-cy/Nitish_Portfolio)
 
-- 💬 Ask me about **React ,Redux ,Html ,Css ,Bootstarap ,Node , Data Structure and Algorith**
+- 💬 Ask me about **React ,Nextjs,Redux,Redux toolkit ,Html ,Css ,Bootstarap ,Nodejs ,ExpressJs,Redis,SQL ,Prisma ,Sequelize ,OAuth , Data Structure and Algorith**
 
 - 📫 How to reach me **mishranitish795@gmail.com**
 
-- ⚡ Fun fact **I this I am Funny**
+- ⚡ Fun fact **Coding is easy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
